@@ -1,0 +1,27 @@
+# Dataset folders
+dogs-vs-cats/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Model files
+*.keras
+*.h5
+*.pb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
